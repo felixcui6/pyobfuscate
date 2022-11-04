@@ -5,7 +5,7 @@
 # 
 # Copyright 2004-2007 Peter Astrand <astrand@cendio.se> for Cendio AB
 # Copyright 2020-2021 Pierre Ossman <ossman@cendio.se> for Cendio AB
-# Copyright 2020-2021 Felix Cui <felixcui6@gmail.com>
+# Copyright 2022-2022 Felix Cui <felixcui6@gmail.com>
 # 
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
