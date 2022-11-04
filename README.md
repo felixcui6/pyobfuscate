@@ -27,7 +27,7 @@ Options:
 -f, --firstcomment      Remove first block of comments as well
 -a, --allpublic	        When __all__ is missing, assume everything is public.
                         The default is to assume nothing is public.
--v, --verbose	          Verbose mode.
+-v, --verbose	        Verbose mode.
 ```
 
 # Example
